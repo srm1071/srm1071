@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj Mandal
 - 👀 I’m interested in Machine learing, Deep Learning and Harware Security.
-- 🌱 I’m currently learning some Computational Biology concepts.
+- 🌱 I’m currently learning Post Quantum Cryptography.
 - 💞️ I’m looking to collaborate on Hardware Security based project.
 - 📫 How to reach me: https://www.linkedin.com/in/suraj-mandal-377021128/
 
