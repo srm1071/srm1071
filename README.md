@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suraj Mandal
-- 👀 I’m interested in Harware Security, Hardware Accelarator for Post Quantum Cryptography and little bit of machine learning applications in security related things.
+- 👀 I’m interested in Hardware Security and hardware Accelerator Design.
 - 🌱 I’m currently learning Post Quantum Cryptography.
-- 💞️ I’m looking to collaborate on Hardware Security based project.
+- 💞️ I’m looking to collaborate on Hardware Security projects.
 - 📫 How to reach me: https://www.linkedin.com/in/suraj-mandal-377021128/
 
 <!---
